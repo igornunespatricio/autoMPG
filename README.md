@@ -19,6 +19,8 @@ The project is structured in 4 different notebooks listed below.
 
 4) [model.ipynb](scripts/model.ipynb):
 
-    Train models sequentially by implementing new layers in the neural network. It starts with a basic linear regression and improves the complexity of the model by adding more parameters in new hidden layers, new non-linear activation function ReLU, changing learning rate, etc. Last model summary can be seen below:
+    Train models sequentially by implementing new layers in the neural network. It starts with a basic linear regression and improves the complexity of the model by adding more parameters in new hidden layers, new non-linear activation function ReLU, changing learning rate, etc. Last trained model can be seen below:
 
-    
+<div style="text-align: center;">
+    <img src="images/model.jpeg">
+</div>
